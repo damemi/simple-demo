@@ -47,4 +47,4 @@ EXPOSE 8080
 ENV PYTHONPATH=/bar
 
 # Command to run the application
-CMD ["python", "main.py"]
+CMD ["python", "inventory/main.py"]
